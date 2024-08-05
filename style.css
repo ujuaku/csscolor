@@ -1,0 +1,64 @@
+/* RGB */
+.red{
+    background: rgb(255, 0, 0);
+    color: rgb(0,0,0);
+}
+.green{
+    background: rgb(0,255,0);
+    color: rgb(255,255,255);
+}
+.blue{
+    background: rgb(0,0,255);
+    color: rgb(255,255,255);
+}
+/* RGBA */
+.red2{
+    background: rgba(255,0,0,1);
+    color: rgba(255,255,255,1);
+}
+.red22{
+    background: rgba(255,0,0,.7);
+    color: rgba(255,255,255,1);
+}.red23{
+    background: rgba(255,0,0,.3);
+    color: rgba(255,255,255,1);
+}
+
+/* RGBA EXAMPLE */
+.green2{
+    background: rgba(45,167,45,.4);
+    color: rgba(255,255,255,.7);
+}.green22{
+    background: rgba(45,167,45,.6);
+    color: rgba(255,255,255,.7);
+}.green23{
+    background: rgba(45,167,45,.7);
+    color: rgba(255,255,255,.7);
+}
+
+.blue2{
+    background: rgba(0,0,255,.5);
+    color: rgba(255,255,255,.5);
+}.blue22{
+    background: rgba(0,0,255,.7);
+    color: rgba(255,255,255,.5);
+}.blue23{
+    background: rgba(0,0,255,.9);
+    color: rgba(255,255,255,.5);
+}
+
+.red3{
+    background: #ff0000;
+    color: #ffffff;
+}
+.green3{
+    background: #00ff00;
+    color: #ffffff;
+}
+.blue3{
+    background: #0000ff;
+    color: #ffffff;
+}
+
+
+
